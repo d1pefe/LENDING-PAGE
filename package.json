@@ -1,0 +1,26 @@
+{
+  "name": "html-css-course-project",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d1pefe/HTML-CSS-Course-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d1pefe/HTML-CSS-Course-project/issues"
+  },
+  "homepage": "https://github.com/d1pefe/HTML-CSS-Course-project#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0",
+    "sass": "^1.55.0"
+  }
+}

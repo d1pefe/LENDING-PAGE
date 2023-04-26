@@ -1,2 +1,2 @@
-# LENDING-PAGE
-A training project that was developed individually. Contains HTML, SCSS elements
+# HTML CSS Course project
+ 
